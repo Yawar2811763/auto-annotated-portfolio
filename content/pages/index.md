@@ -8,10 +8,17 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: LETS BREAK THE CHAINS OF THE PAYWALLS BEHIND WHICH THE EDUCATION IS KEPT
-    text: |
-      LETS BREAK THE CHAINS OF PAY WALLS BEHIND 
+    text: >+
+      Hello freinds i am just a student like you who has collected the pirated
+      educational courses from various paid 
 
-      THE EDUCATION IS KEPT
+
+      platforms which i want to share with you guys so that you can get the
+      education for free without caring 
+
+
+      ##### about the payments for those courses
+
     elementId: ''
     styles:
       self:
