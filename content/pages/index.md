@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
-    subtitle: LETS BREA THE CHAINS OF THE PAYWALLS BEHIND WHICH THE EDUCATION IS KEPT
+    subtitle: LETS BREAK THE CHAINS OF THE PAYWALLS BEHIND WHICH THE EDUCATION IS KEPT
     text: |
       LETS BREAK THE CHAINS OF PAY WALLS BEHIND 
 
