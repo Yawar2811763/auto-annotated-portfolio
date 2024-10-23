@@ -184,11 +184,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-backgroundImage:
-  type: BackgroundImage
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
-  url: /images/gallery-2.jpg
 ---
