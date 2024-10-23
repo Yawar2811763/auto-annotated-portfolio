@@ -7,7 +7,9 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
-    subtitle: LETS BREAK THE CHAINS OF THE PAYWALLS BEHIND WHICH THE EDUCATION IS KEPT
+    subtitle: >-
+      LETS BREAK THE CHAINS OF THE PAYWALLS BEHIND WHICH THE EDUCATION IS
+      KEPT!!!
     text: >
       Hello freinds i am just a student like you who has collected the pirated
       educational courses from various paid
