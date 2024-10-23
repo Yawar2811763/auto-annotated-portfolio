@@ -192,4 +192,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+  url: /images/gallery-2.jpg
 ---
