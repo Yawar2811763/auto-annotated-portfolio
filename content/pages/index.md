@@ -6,7 +6,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: MOTIVE OF THIS WEBSITE
     subtitle: >-
       LETS BREAK THE CHAINS OF THE PAYWALLS BEHIND WHICH THE EDUCATION IS
       KEPT!!!
